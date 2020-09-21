@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/loadstar/VsCodeDir/Cpp/Coroutine/Coroutine.hpp
+project.hpp
+/home/loadstar/VsCodeDir/Cpp/Coroutine/project.hpp
+
+/home/loadstar/VsCodeDir/Cpp/Coroutine/Schedule.hpp
+map
+-
+project.hpp
+/home/loadstar/VsCodeDir/Cpp/Coroutine/project.hpp
+Coroutine.hpp
+/home/loadstar/VsCodeDir/Cpp/Coroutine/Coroutine.hpp
+
+/home/loadstar/VsCodeDir/Cpp/Coroutine/main.cpp
+iostream
+-
+Schedule.hpp
+/home/loadstar/VsCodeDir/Cpp/Coroutine/Schedule.hpp
+
+/home/loadstar/VsCodeDir/Cpp/Coroutine/project.hpp
+functional
+-
+ucontext.h
+-
+memory
+-
+

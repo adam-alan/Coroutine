@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/loadstar/VsCodeDir/Cpp/Coroutine/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Coroutine.dir/main.cpp.o -c /home/loadstar/VsCodeDir/Cpp/Coroutine/main.cpp",
+  "file": "/home/loadstar/VsCodeDir/Cpp/Coroutine/main.cpp"
+},
+{
+  "directory": "/home/loadstar/VsCodeDir/Cpp/Coroutine/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Coroutine.dir/Coroutine.cpp.o -c /home/loadstar/VsCodeDir/Cpp/Coroutine/Coroutine.cpp",
+  "file": "/home/loadstar/VsCodeDir/Cpp/Coroutine/Coroutine.cpp"
+},
+{
+  "directory": "/home/loadstar/VsCodeDir/Cpp/Coroutine/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Coroutine.dir/Schedule.cpp.o -c /home/loadstar/VsCodeDir/Cpp/Coroutine/Schedule.cpp",
+  "file": "/home/loadstar/VsCodeDir/Cpp/Coroutine/Schedule.cpp"
+}
+]
